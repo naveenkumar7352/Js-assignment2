@@ -1,0 +1,19 @@
+.flex-container{
+    padding: 1rem;
+    background-color: hsl(133, 93%, 49%);
+    display: flex;
+    flex-flow: row wrap;
+    
+    
+}
+.flex-item{
+    width: 200px;
+    height: 250px;
+    padding: 1rem;
+    color: white;
+    font-size: 30px;
+    border: 2px solid hsl(17, 15%, 54%);
+    border-radius: 10px;
+    background-color: hsl(0, 95%, 43%);
+    margin: 5px;
+}
